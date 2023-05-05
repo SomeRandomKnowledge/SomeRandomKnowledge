@@ -8,7 +8,7 @@
 >[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center"> 
-💬 Ask me about <b>Lua, Python, Chess:D, HTML, CSS, JavaScript/b>
+💬 Ask me about <b>Lua, Python, Chess:D, HTML, CSS, JavaScript</b>
 📫 How to reach me <b>nickolasfranco618@gmail.com</b>
 </div>
 <h3 align="center">Languages and Tools</h3>
