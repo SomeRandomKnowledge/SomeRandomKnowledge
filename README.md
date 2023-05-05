@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=SomeRandomKnowledgen&label=Profile%20views&color=0e75b6&style=flat&logo=Patreon)](https://github.com/SomeRandomKnowlege)
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanosman&theme=discord" alt="SomeRandomKnowledge" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomeRandomKnowledge&theme=discord" alt="SomeRandomKnowledge" /></a> </p>
 
 <div align="center"> 
 💬 Ask me about <b>C#, JS/TS, PHP, Lua</b>
