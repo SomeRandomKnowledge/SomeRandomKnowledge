@@ -5,7 +5,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SomeRandomKnowledgen&label=Profile%20views&color=0e75b6&style=flat&logo=Patreon)](https://github.com/SomeRandomKnowlege)
 
->[![trophy](https://github-profile-trophy.vercel.app/?username=SomeRandomKnowledge&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+>[![trophy](https://github-profile-trophy.vercel.app/?username=SomeRandomKnowledge ](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center"> 
 💬 Ask me about <b>Lua, Python, Chess:D, HTML, CSS, JavaScript</b>
