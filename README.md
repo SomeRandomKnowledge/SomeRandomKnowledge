@@ -3,9 +3,9 @@
 <h3 align="center">Backend Developer And Grey hat hacker</h3>
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SomeRandomKnowledgen&label=Profile%20views&color=0e75b6&style=flat&logo=Patreon)](https://github.com/SomeRandomKnowlege)
+[![profileviews](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)](https://github.com/SomeRandomKnowledge)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SomeRandomKnowledge&no-frame=true&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SomeRandomKnowledge&theme=oldie&no-frame=true)](https://github.com/SomeRandomKnowledge)
 
 <div align="center"> 
 💬 Ask me about <b>Lua, Python, Chess:D, HTML, CSS, JavaScript</b>
