@@ -1,6 +1,6 @@
 ### Hi there 👋
 <hr/>
-<h3 align="center">Backend Developer And Grey hat hacker</h3>
+<h3 align="center">Backend Developer</h3>
 
 
 [![profileviews](https://komarev.com/ghpvc/?username=SomeRandomKnowledge&style=for-the-badge)](https://github.com/SomeRandomKnowledge)
